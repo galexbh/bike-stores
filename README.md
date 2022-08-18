@@ -12,7 +12,7 @@ UNAH (Autonomous University of Honduras). Project for the **Database II** class.
 
 * **Gabriel Alexander Barrientos** - *20181000058* - [galexbh](https://github.com/galexbh)
 
-* **Carlos Eduardo Alcerro** - *20181900319*
+* **Carlos Eduardo Alcerro** - *20181900319* - [Carlos-Alcerro](https://github.com/Carlos-Alcerro)
 
 ## Necessary 📄
 
@@ -25,3 +25,12 @@ UNAH (Autonomous University of Honduras). Project for the **Database II** class.
 ## Resources 🪵
 
 [Sample database](https://www.sqlservertutorial.net/sql-server-sample-database/)
+
+## Schemes
+
+### OLTP
+![OLTP](docs/img/SQL-Server-Sample-Database.png)
+
+### OLAP
+![Star model](docs/img/ModelStart.jpg)
+
